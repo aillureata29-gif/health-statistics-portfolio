@@ -53,3 +53,7 @@ The results should be understood in the context of the original research rather 
 ## Author
 
 A first-semester Statistics student at Universitas Terbuka, Indonesia, learning R, statistical analysis, and data visualization through independent projects.
+
+## Visualization
+
+![Clinical Outcomes Analysis](clinical_outcomes.png)
