@@ -44,20 +44,6 @@ These percentages describe the outcomes reported in the source study. They shoul
 - **Data format:** CSV
 - **Visualization:** Bar chart
 
-## Project Structure
-
-```text
-health-statistics-portfolio/
-├── README.md
-├── data/
-│   ├── clinical_outcomes_clean.csv
-│   └── summary_clinical_outcomes.csv
-├── R/
-│   └── 01_analisis_outcomes.R
-└── figures/
-    └── clinical_outcomes.png
-```
-
 ## Limitations
 
 This project is an exploratory descriptive analysis based on selected published aggregate statistics. It does not use individual patient-level data, establish causal relationships, or independently validate the original study's findings.
