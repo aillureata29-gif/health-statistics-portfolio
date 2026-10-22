@@ -57,3 +57,16 @@ A first-semester Statistics student at Universitas Terbuka, Indonesia, learning 
 ## Visualization
 
 ![Clinical Outcomes Analysis](clinical_outcomes.png)
+
+## What I Learned
+
+Through this project, I practiced:
+
+- Importing and organizing data in CSV format.
+- Selecting observations using conditions in R.
+- Summarizing published clinical outcome percentages.
+- Creating a bar chart to communicate statistical information.
+- Documenting an analysis and its limitations.
+
+This project represents my first steps in applying statistics to published health research and developing reproducible data analysis skills.
+
